@@ -1,0 +1,20 @@
+.row{
+  border: 5px dotted darkorange;
+}
+.btn-success {
+  color: pink;
+  background-color: purple;
+  background-color: rebeccapurple;
+}
+
+.first {
+  background-color: aqua;
+}
+
+.second {
+  background-color: limegreen;
+}
+
+.third {
+  background-color: red;
+}
